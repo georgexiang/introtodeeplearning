@@ -6,6 +6,11 @@
 *.h5
 lab2/logs/*
 
+# Generated Lab 1 artifacts
+lab1/output_*.wav
+lab1/tmp.wav
+lab1/training_checkpoints/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

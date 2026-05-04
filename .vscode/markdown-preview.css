@@ -1,0 +1,16 @@
+body,
+.vscode-body,
+.markdown-body {
+  background: #ffffff !important;
+  color: #24292f !important;
+}
+
+pre,
+code {
+  background: #f6f8fa !important;
+  color: #24292f !important;
+}
+
+a {
+  color: #0969da !important;
+}
