@@ -11,6 +11,9 @@ lab1/output_*.wav
 lab1/tmp.wav
 lab1/training_checkpoints/
 
+# Downloaded datasets
+lab2/data/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
